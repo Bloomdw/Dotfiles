@@ -15,3 +15,6 @@ flameshot gui -d 2000 -p ~/Images/Screenshots/&
 
 #Self-explanatory. Key mapping
 xmodmap
+
+#Change kitty theme
+ln -s ~/.config/kitty/kitty-themes/themes/WHATEVERTHEMEYOUDECIDE ~/.config/kitty/theme.conf
