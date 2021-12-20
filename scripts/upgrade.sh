@@ -1,3 +1,5 @@
+#!/bin/bash
+
 sudo  pacman -Sy archlinux-keyring && pacman -Su
  
- sudo pacman -Syu
+sudo pacman -Syu
